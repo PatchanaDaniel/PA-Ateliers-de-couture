@@ -1,0 +1,526 @@
+ligne,colonne,valeur_initiale,action,justification,valeur_obtenue
+264,ALL,P06-00045,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+344,ALL,P06-00029,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+461,ALL,P06-00010,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+466,ALL,P06-00033,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+536,ALL,P06-00056,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+539,ALL,P06-00002,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+543,ALL,P06-00031,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+575,ALL,P06-00050,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+597,ALL,P06-00054,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+620,ALL,P06-00040,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+648,ALL,P06-00007,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+649,ALL,P06-00059,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+654,ALL,P06-00047,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+658,ALL,P06-00009,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+691,ALL,P06-00049,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+698,ALL,P06-00048,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+705,ALL,P06-00044,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+727,ALL,P06-00037,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+733,ALL,P06-00016,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+735,ALL,P06-00019,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+738,ALL,P06-00008,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+759,ALL,P06-00036,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+769,ALL,P06-00057,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+787,ALL,P06-00006,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+811,ALL,P06-00043,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+814,ALL,P06-00012,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+818,ALL,P06-00032,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+823,ALL,P06-00022,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+842,ALL,P06-00034,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+843,ALL,P06-00041,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+847,ALL,P06-00021,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+865,ALL,P06-00013,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+879,ALL,P06-00004,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+886,ALL,P06-00011,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+895,ALL,P06-00052,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+908,ALL,P06-00060,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+910,ALL,P06-00027,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+921,ALL,P06-00038,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+931,ALL,P06-00028,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+939,ALL,P06-00055,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+945,ALL,P06-00039,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+947,ALL,P06-00017,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+950,ALL,P06-00005,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+954,ALL,P06-00046,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+959,ALL,P06-00020,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+971,ALL,P06-00058,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+977,ALL,P06-00035,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+984,ALL,P06-00053,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+986,ALL,P06-00001,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+989,ALL,P06-00025,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1016,ALL,P06-00042,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1020,ALL,P06-00018,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1042,ALL,P06-00023,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1048,ALL,P06-00030,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1053,ALL,P06-00024,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1072,ALL,P06-00026,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1074,ALL,P06-00051,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1082,ALL,P06-00014,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1090,ALL,P06-00003,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+1096,ALL,P06-00015,SUPPRESSION_DOUBLON_STRICT,Copie strictement identique,SUPPRIME
+24,id_operation,P06-00086,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+63,id_operation,P06-00087,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+64,id_operation,P06-00078,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+67,id_operation,P06-00086,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+85,id_operation,P06-00091,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+108,id_operation,P06-00083,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+113,id_operation,P06-00077,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+115,id_operation,P06-00071,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+138,id_operation,P06-00074,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+140,id_operation,P06-00075,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+154,id_operation,P06-00074,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+198,id_operation,P06-00067,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+200,id_operation,P06-00066,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+205,id_operation,P06-00098,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+207,id_operation,P06-00085,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+229,id_operation,P06-00070,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+243,id_operation,P06-00078,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+250,id_operation,P06-00089,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+252,id_operation,P06-00084,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+270,id_operation,P06-00069,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+277,id_operation,P06-00069,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+303,id_operation,P06-00064,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+305,id_operation,P06-00070,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+325,id_operation,P06-00098,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+326,id_operation,P06-00071,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+349,id_operation,P06-00092,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+359,id_operation,P06-00093,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+361,id_operation,P06-00068,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+369,id_operation,P06-00075,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+382,id_operation,P06-00072,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+388,id_operation,P06-00076,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+455,id_operation,P06-00089,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+462,id_operation,P06-00088,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+493,id_operation,P06-00061,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+501,id_operation,P06-00097,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+503,id_operation,P06-00094,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+512,id_operation,P06-00081,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+555,id_operation,P06-00062,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+558,id_operation,P06-00099,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+601,id_operation,P06-00084,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+633,id_operation,P06-00088,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+655,id_operation,P06-00065,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+672,id_operation,P06-00073,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+702,id_operation,P06-00064,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+703,id_operation,P06-00068,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+715,id_operation,P06-00061,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+725,id_operation,P06-00099,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+731,id_operation,P06-00092,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+734,id_operation,P06-00077,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+745,id_operation,P06-00100,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+747,id_operation,P06-00080,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+748,id_operation,P06-00079,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+770,id_operation,P06-00097,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+775,id_operation,P06-00073,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+784,id_operation,P06-00095,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+798,id_operation,P06-00062,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+803,id_operation,P06-00100,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+805,id_operation,P06-00072,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+824,id_operation,P06-00083,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+833,id_operation,P06-00096,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+849,id_operation,P06-00085,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+855,id_operation,P06-00065,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+868,id_operation,P06-00080,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+869,id_operation,P06-00081,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+870,id_operation,P06-00094,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+894,id_operation,P06-00093,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+904,id_operation,P06-00076,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+913,id_operation,P06-00063,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+928,id_operation,P06-00066,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+933,id_operation,P06-00063,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+968,id_operation,P06-00090,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+998,id_operation,P06-00090,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+1001,id_operation,P06-00082,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+1015,id_operation,P06-00087,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+1019,id_operation,P06-00079,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+1031,id_operation,P06-00096,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+1039,id_operation,P06-00067,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+1060,id_operation,P06-00082,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+1069,id_operation,P06-00095,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+1079,id_operation,P06-00091,MISE_EN_QUARANTAINE,Conflit de données pour la même clé sans arbitrage temporel,QUARANTAINE
+91,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+104,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+122,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+151,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+158,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+172,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+173,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+178,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+216,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+225,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+240,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+310,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+352,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+357,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+394,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+414,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+415,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+446,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+453,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+465,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+480,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+530,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+535,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+557,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+593,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+609,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+617,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+628,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+671,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+678,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+695,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+717,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+732,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+736,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+766,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+796,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+830,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+834,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+841,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+943,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+978,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+981,id_site, S03 ,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S03
+1005,id_site,S99,SITE_HORS_REFERENTIEL,Code non référencé conservé sans falsification,S99
+1006,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+1017,id_site,,MARQUAGE_ABSENT,Code site manquant,nan
+1037,id_site,s05,NORMALISATION_CASSE_ESPACE,Nettoyage casse et espaces,S05
+4,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+26,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+32,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+33,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+48,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+55,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+65,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+68,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+96,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+119,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+133,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+134,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+136,categorie,,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+164,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+167,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+188,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+190,categorie,NULL,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+194,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+199,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+210,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+211,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+212,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+214,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+234,categorie,?,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+249,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+251,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+255,categorie,N/A,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+274,categorie,inconnu,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+276,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+291,categorie,NULL,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+295,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+296,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+311,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+315,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+317,categorie,?,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+323,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+324,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+332,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+335,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+342,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+365,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+370,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+377,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+398,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+431,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+439,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+441,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+499,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+515,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+518,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+529,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+532,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+534,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+538,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+554,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+562,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+576,categorie, boubou ,NORMALISATION_CASSE,Harmonisation casse,Boubou
+587,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+588,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+596,categorie,N/A,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+599,categorie, boubou ,NORMALISATION_CASSE,Harmonisation casse,Boubou
+600,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+626,categorie,,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+641,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+642,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+644,categorie,inconnu,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+645,categorie,NULL,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+659,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+661,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+663,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+666,categorie, boubou ,NORMALISATION_CASSE,Harmonisation casse,Boubou
+677,categorie,?,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+685,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+687,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+688,categorie,inconnu,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+712,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+714,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+716,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+718,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+749,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+757,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+777,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+786,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+804,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+806,categorie, boubou ,NORMALISATION_CASSE,Harmonisation casse,Boubou
+810,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+817,categorie, boubou ,NORMALISATION_CASSE,Harmonisation casse,Boubou
+822,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+826,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+828,categorie,,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+852,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+856,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+862,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+883,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+891,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+925,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+932,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+936,categorie,NULL,MARQUAGE_ABSENT,Marqueur absence reconnu,nan
+948,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+951,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+962,categorie, uniforme ,NORMALISATION_CASSE,Harmonisation casse,Uniforme
+988,categorie, boubou ,NORMALISATION_CASSE,Harmonisation casse,Boubou
+1013,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+1023,categorie, robe ,NORMALISATION_CASSE,Harmonisation casse,Robe
+1043,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+1055,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+1066,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+1067,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+1068,categorie,AUTRE_NON_DOCUMENTE,CONSERVATION_NON_DOCUMENTE,Catégorie non documentée conservée sans imputation,AUTRE_NON_DOCUMENTE
+1076,categorie, chemise ,NORMALISATION_CASSE,Harmonisation casse,Chemise
+13,delai_promis_jours,-19.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+45,delai_promis_jours,-13.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+49,delai_promis_jours,-9.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+60,delai_promis_jours,N/A,MARQUAGE_ABSENT,Absence reconnue,nan
+61,delai_promis_jours,-21.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+84,delai_promis_jours,inconnu,MARQUAGE_ABSENT,Absence reconnue,nan
+97,delai_promis_jours,-18.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+117,delai_promis_jours,-18.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+150,delai_promis_jours,-26.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+159,delai_promis_jours,-12.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+171,delai_promis_jours,-6.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+185,delai_promis_jours,-5.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+191,delai_promis_jours,-11.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+204,delai_promis_jours,-6.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+232,delai_promis_jours,-12.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+247,delai_promis_jours,-15.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+280,delai_promis_jours,N/A,MARQUAGE_ABSENT,Absence reconnue,nan
+282,delai_promis_jours,?,MARQUAGE_ABSENT,Absence reconnue,nan
+288,delai_promis_jours,inconnu,MARQUAGE_ABSENT,Absence reconnue,nan
+292,delai_promis_jours,NULL,MARQUAGE_ABSENT,Absence reconnue,nan
+314,delai_promis_jours,-19.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+331,delai_promis_jours,-14.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+346,delai_promis_jours,-9.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+353,delai_promis_jours,-24.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+375,delai_promis_jours,-13.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+383,delai_promis_jours,,MARQUAGE_ABSENT,Absence reconnue,nan
+386,delai_promis_jours,-25.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+391,delai_promis_jours,N/A,MARQUAGE_ABSENT,Absence reconnue,nan
+395,delai_promis_jours,-13.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+407,delai_promis_jours,-14.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+410,delai_promis_jours,-11.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+411,delai_promis_jours,-21.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+425,delai_promis_jours,-8.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+476,delai_promis_jours,-18.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+492,delai_promis_jours,-8.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+509,delai_promis_jours,-24.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+521,delai_promis_jours,-18.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+546,delai_promis_jours,-22.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+548,delai_promis_jours,-13.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+570,delai_promis_jours,-26.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+608,delai_promis_jours,-22.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+634,delai_promis_jours,-23.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+675,delai_promis_jours,-25.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+684,delai_promis_jours,-11.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+701,delai_promis_jours,-5.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+704,delai_promis_jours,inconnu,MARQUAGE_ABSENT,Absence reconnue,nan
+729,delai_promis_jours,-14.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+730,delai_promis_jours,-24.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+807,delai_promis_jours,-23.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+838,delai_promis_jours,-9.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+839,delai_promis_jours,-8.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+850,delai_promis_jours,inconnu,MARQUAGE_ABSENT,Absence reconnue,nan
+857,delai_promis_jours,-12.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+867,delai_promis_jours,-5.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+876,delai_promis_jours,NULL,MARQUAGE_ABSENT,Absence reconnue,nan
+882,delai_promis_jours,-5.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+887,delai_promis_jours,-26.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+929,delai_promis_jours,-11.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+935,delai_promis_jours,,MARQUAGE_ABSENT,Absence reconnue,nan
+973,delai_promis_jours,?,MARQUAGE_ABSENT,Absence reconnue,nan
+1029,delai_promis_jours,?,MARQUAGE_ABSENT,Absence reconnue,nan
+1083,delai_promis_jours,-4.0,REJET_NEGATIF,Délai promis négatif impossible,nan
+14,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+23,delai_reel_jours,NULL,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+88,delai_reel_jours,?,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+93,delai_reel_jours,inconnu,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+94,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+106,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+142,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+152,delai_reel_jours,?,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+177,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+179,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+181,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+197,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+209,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+215,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+227,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+248,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+290,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+293,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+299,delai_reel_jours,,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+300,delai_reel_jours,,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+328,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+372,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+379,delai_reel_jours,?,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+389,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+397,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+408,delai_reel_jours,NULL,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+418,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+427,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+429,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+438,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+449,delai_reel_jours,N/A,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+450,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+458,delai_reel_jours,?,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+463,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+464,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+468,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+474,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+479,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+488,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+519,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+528,delai_reel_jours,N/A,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+544,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+569,delai_reel_jours,inconnu,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+590,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+605,delai_reel_jours,inconnu,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+660,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+679,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+694,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+697,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+740,delai_reel_jours,?,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+753,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+774,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+801,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+860,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+909,delai_reel_jours,?,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+920,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+966,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+1000,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+1009,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+1018,delai_reel_jours,NULL,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+1033,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+1035,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+1063,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+1087,delai_reel_jours,erreur_saisie,MARQUAGE_ABSENT,Erreur de saisie ou absence,nan
+143,statut,INCONNU,STATUT_NON_CONFORME,Statut non répertorié,Inconnu
+485,statut,INCONNU,STATUT_NON_CONFORME,Statut non répertorié,Inconnu
+490,statut,INCONNU,STATUT_NON_CONFORME,Statut non répertorié,Inconnu
+542,statut,INCONNU,STATUT_NON_CONFORME,Statut non répertorié,Inconnu
+612,statut,INCONNU,STATUT_NON_CONFORME,Statut non répertorié,Inconnu
+853,statut,INCONNU,STATUT_NON_CONFORME,Statut non répertorié,Inconnu
+1025,statut,INCONNU,STATUT_NON_CONFORME,Statut non répertorié,Inconnu
+0,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+1,date_operation,27/05/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-05-27
+44,date_operation,15/01/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-01-15
+57,date_operation,26/02/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-02-26
+58,date_operation,29/11/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-11-29
+81,date_operation,19/06/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-06-19
+83,date_operation,07/12/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-12-07
+87,date_operation,27/05/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-05-27
+114,date_operation,09/03/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-03-09
+149,date_operation,17/12/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-12-17
+170,date_operation,28/01/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-01-28
+175,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+176,date_operation,11/01/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-01-11
+183,date_operation,19/06/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-06-19
+203,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+206,date_operation,16/12/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-12-16
+217,date_operation,08/05/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-05-08
+228,date_operation,18/07/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-07-18
+238,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+254,date_operation,10/06/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-06-10
+256,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+257,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+269,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+281,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+306,date_operation,14/02/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-02-14
+309,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+345,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+348,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+364,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+371,date_operation,31/08/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-08-31
+373,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+378,date_operation,25/06/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-06-25
+381,date_operation,07/05/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-05-07
+405,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+421,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+435,date_operation,15/11/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-11-15
+436,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+481,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+484,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+504,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+507,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+508,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+510,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+520,date_operation,11/04/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-04-11
+522,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+540,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+541,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+550,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+553,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+567,date_operation,07/04/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-04-07
+571,date_operation,21/10/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-10-21
+604,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+615,date_operation,16/11/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-11-16
+616,date_operation,03/04/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-04-03
+624,date_operation,31/08/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-08-31
+639,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+651,date_operation,05/10/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-10-05
+662,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+686,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+724,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+728,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+741,date_operation,11/03/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-03-11
+742,date_operation,21/04/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-04-21
+743,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+751,date_operation,06/01/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-01-06
+772,date_operation,06/02/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-02-06
+797,date_operation,07/01/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-01-07
+816,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+825,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+848,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+872,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+889,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+890,date_operation,25/06/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-06-25
+898,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+901,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+903,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+906,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+930,date_operation,04/04/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-04-04
+937,date_operation,21/01/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-01-21
+949,date_operation,24/10/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-10-24
+955,date_operation,16/07/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-07-16
+961,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+963,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+964,date_operation,15/01/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-01-15
+994,date_operation,22/10/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-10-22
+995,date_operation,25/03/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-03-25
+999,date_operation,14/10/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-10-14
+1002,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+1041,date_operation,02/01/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-01-02
+1044,date_operation,20/12/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-12-20
+1049,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+1052,date_operation,31/03/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-03-31
+1058,date_operation,15/12/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-12-15
+1061,date_operation,29/08/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-08-29
+1084,date_operation,31/02/2025,DATE_IMPOSSIBLE,Date calendaire inexistante,NaT
+1088,date_operation,22/10/2025,CONVERSION_FORMAT,Passage DD/MM/YYYY vers ISO,2025-10-22

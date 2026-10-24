@@ -1,0 +1,81 @@
+id_operation,date_operation,id_site,categorie,delai_promis_jours,delai_reel_jours,statut,commentaire
+P06-00086,2025-11-01,S01,AUTRE_NON_DOCUMENTE,2,999999,Valide,export secondaire
+P06-00087,2025-03-09,S06,Uniforme,N/A,6,Valide,RAS
+P06-00078,2025-02-20,S07, boubou ,21,999999,Valide,export secondaire
+P06-00086,2025-11-01,S01,AUTRE_NON_DOCUMENTE,2,3,Valide,RAS
+P06-00091,2025-10-07,S08,Uniforme,16,24,Valide,RAS
+P06-00083,2025-05-10,S03,Robe,13,21,Valide,RAS
+P06-00077,2025-08-06,S07,Chemise,10,999999,Valide,export secondaire
+P06-00071,2025-12-07,,Chemise,23,999999,Valide,export secondaire
+P06-00074,2025-11-03,S08,Robe,-25.0,999999,Valide,export secondaire
+P06-00075,31/02/2025,S07,Chemise,21,7,Valide,RAS
+P06-00074,2025-11-03,S08,Robe,-25.0,40,Valide,RAS
+P06-00067,2025-04-28,S04,Robe,7,999999, valide ,export secondaire
+P06-00066,2025-01-21,S04,Chemise,8,999999,Valide,export secondaire
+P06-00098,2025-12-29,S01,Robe,8,19,Valide,RAS
+P06-00085,2025-05-04,S07,Boubou,18,999999,Valide,export secondaire
+P06-00070,2025-01-18,S07,Boubou,-26.0,5,Valide,RAS
+P06-00078,2025-02-20,S07, boubou ,21,12,Valide,RAS
+P06-00089,2025-03-21,S03,Robe,5,35,Valide,RAS
+P06-00084,2025-09-03,s05,Uniforme,6,27,Valide,RAS
+P06-00069,2025-10-17,s05,Robe,17,29,Valide,RAS
+P06-00069,2025-10-17,s05,Robe,17,999999,Valide,export secondaire
+P06-00064,2025-05-04,S03,Robe,2 jours,999999,Valide,export secondaire
+P06-00070,2025-01-18,S07,Boubou,-26.0,999999,Valide,export secondaire
+P06-00098,2025-12-29,S01,Robe,8,999999,Valide,export secondaire
+P06-00071,2025-12-07,,Chemise,23,1,Valide,RAS
+P06-00092,2025-04-21,S02,Chemise,9,13,Valide,RAS
+P06-00093,2025-06-17,S03,Robe,5,25,Valide,RAS
+P06-00068,2025-06-05,S05,Uniforme,25 jours,36,Valide,RAS
+P06-00075,31/02/2025,S07,Chemise,21,999999,Valide,export secondaire
+P06-00072,2025-08-16,S03,N/A,21,37,Valide,RAS
+P06-00076,2025-05-30, S03 ,Chemise,17,999999,Valide,export secondaire
+P06-00089,2025-03-21,S03,Robe,5,999999,Valide,export secondaire
+P06-00088,2025-03-29,S01,Robe,16,19000.0,Valide,RAS
+P06-00061,20/02/2025,S08,Boubou,13,999999,Valide,export secondaire
+P06-00097,2025-06-18,S02,Uniforme,19,5,Valide,RAS
+P06-00094,2025-12-12,S05,Boubou,NULL,999999,Valide,export secondaire
+P06-00081,2025-08-24,S04,Chemise,14,erreur_saisie,Valide,RAS
+P06-00062,2025-09-02,S04,Uniforme,6,999999,Valide,export secondaire
+P06-00099,2025-05-01,S06,Robe,16,999999,Valide,export secondaire
+P06-00084,2025-09-03,s05,Uniforme,6,999999,Valide,export secondaire
+P06-00088,2025-03-29,S01,Robe,16,999999,Valide,export secondaire
+P06-00065,2025-06-30,S02,AUTRE_NON_DOCUMENTE,5,999999,Valide,export secondaire
+P06-00073,2025-01-08,S06,Boubou,12,26,Valide,RAS
+P06-00064,2025-05-04,S03,Robe,2 jours,11,Valide,RAS
+P06-00068,2025-06-05,S05,Uniforme,25 jours,999999,Valide,export secondaire
+P06-00061,20/02/2025,S08,Boubou,13,28,Valide,RAS
+P06-00099,2025-05-01,S06,Robe,16,12,Valide,RAS
+P06-00092,2025-04-21,S02,Chemise,9,999999,Valide,export secondaire
+P06-00077,2025-08-06,S07,Chemise,10,1,Valide,RAS
+P06-00100,2025-01-16,S02,AUTRE_NON_DOCUMENTE,3,12,Valide,RAS
+P06-00080,2025-02-15,S07, uniforme ,7,15,Valide,RAS
+P06-00079,2025-11-09,S01,Robe,24,999999,Valide,export secondaire
+P06-00097,2025-06-18,S02,Uniforme,19,999999,Valide,export secondaire
+P06-00073,2025-01-08,S06,Boubou,12,999999,Valide,export secondaire
+P06-00095,2025-11-25,S01,Boubou,12,999999,Valide,export secondaire
+P06-00062,2025-09-02,S04,Uniforme,6,17000.0,Valide,RAS
+P06-00100,2025-01-16,S02,AUTRE_NON_DOCUMENTE,3,999999,Valide,export secondaire
+P06-00072,2025-08-16,S03,N/A,21,999999,Valide,export secondaire
+P06-00083,2025-05-10,S03,Robe,13,999999,Valide,export secondaire
+P06-00096,31/02/2025,S08,Uniforme,9,999999,Valide,export secondaire
+P06-00085,2025-05-04,S07,Boubou,18,erreur_saisie,Valide,RAS
+P06-00065,2025-06-30,S02,AUTRE_NON_DOCUMENTE,5,24,Valide,RAS
+P06-00080,2025-02-15,S07, uniforme ,7,999999,Valide,export secondaire
+P06-00081,2025-08-24,S04,Chemise,14,999999,Valide,export secondaire
+P06-00094,2025-12-12,S05,Boubou,NULL,2,Valide,RAS
+P06-00093,2025-06-17,S03,Robe,5,999999,Valide,export secondaire
+P06-00076,2025-05-30, S03 ,Chemise,17,29,Valide,RAS
+P06-00063,2025-02-22,S06,N/A,15,999999,Valide,export secondaire
+P06-00066,2025-01-21,S04,Chemise,8,35,Valide,RAS
+P06-00063,2025-02-22,S06,N/A,15,31,Valide,RAS
+P06-00090,2025-12-29,S04,?,22,40,Valide,RAS
+P06-00090,2025-12-29,S04,?,22,999999,Valide,export secondaire
+P06-00082,18/08/2025,S04,Uniforme,10,999999,Valide,export secondaire
+P06-00087,2025-03-09,S06,Uniforme,N/A,999999,Valide,export secondaire
+P06-00079,2025-11-09,S01,Robe,24,33000.0,Valide,RAS
+P06-00096,31/02/2025,S08,Uniforme,9,1,Valide,RAS
+P06-00067,2025-04-28,S04,Robe,7,1, valide ,RAS
+P06-00082,18/08/2025,S04,Uniforme,10,4,Valide,RAS
+P06-00095,2025-11-25,S01,Boubou,12,10,Valide,RAS
+P06-00091,2025-10-07,S08,Uniforme,16,999999,Valide,export secondaire

@@ -1,0 +1,5 @@
+categorie,total_commandes,commandes_en_retard,taux_retard_pct,delai_promis_median,delai_reel_median,retard_median_jours,retard_moyen_jours
+Boubou,168,119,70.83,13.0,21.0,6.0,1593.95
+Chemise,177,128,72.32,14.0,23.0,10.0,1045.98
+Robe,190,140,73.68,12.0,22.5,10.0,1506.64
+Uniforme,191,128,67.02,14.0,22.0,8.0,666.22

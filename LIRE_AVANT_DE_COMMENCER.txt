@@ -1,0 +1,6 @@
+Projet 06 : Ateliers de couture
+1. Ouvrir PROJET_COMPLET.html dans un navigateur.
+2. Lire DICTIONNAIRE_DONNEES.md.
+3. Ouvrir DEMARRAGE.ipynb dans Jupyter.
+4. Ne jamais modifier les fichiers de donnees/.
+Toutes les sources sont synthétiques. Source prioritaire : JSON.

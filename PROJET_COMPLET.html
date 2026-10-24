@@ -1,0 +1,63 @@
+<!doctype html><html lang="fr"><meta charset="utf-8"><title>Ateliers de couture</title><style>body{font:17px/1.6 system-ui;max-width:1000px;margin:40px auto;padding:24px;color:#172b40}h1,h2{color:#12556b}table{border-collapse:collapse;width:100%;font-size:14px}td,th{border:1px solid #bacbd0;padding:8px}pre{background:#eef3f5;padding:16px;overflow:auto}@media print{body{font-size:11pt;margin:0}h2{break-after:avoid}tr{break-inside:avoid}}</style><h1>Projet 06 — Ateliers de couture</h1>
+<h2>1. Situation et mission</h2>
+<p>Une structure entièrement fictive implantée dans plusieurs villes du Sénégal vous confie son registre de ateliers de couture. Les équipes ont consolidé des saisies manuelles et des exports provenant de plusieurs postes. La direction constate que les totaux ne concordent pas et ne sait pas encore quels indicateurs utiliser. Elle vous recrute comme analyste pour transformer ces exports en résultats vérifiables. Une ligne représente une commande de confection. Plusieurs opérations peuvent avoir lieu le même jour dans un même site. Les villes servent uniquement de contexte : ces données ne mesurent aucune situation réelle au Sénégal.</p>
+<p>Votre réponse finale doit traiter cette question centrale : <strong>Pour quels vêtements les commandes dépassent-elles le plus souvent le délai promis ?</strong></p>
+<h2>2. Objectifs observables</h2>
+<p>À l&#x27;issue du projet, vous devrez être capable de :</p>
+<p>- importer une source JSON sans perdre silencieusement des enregistrements ;</p>
+<p>- construire un audit chiffré de qualité et justifier chaque règle de nettoyage ;</p>
+<p>- expliquer et calculer les indicateurs adaptés à une commande de confection, en particulier <strong>delai_reel_jours − delai_promis_jours</strong> ;</p>
+<p>- produire une comparaison temporelle et une comparaison entre sites sans confondre volumes et performances ;</p>
+<p>- publier un tableau de bord Dash filtrable et conserver une piste d&#x27;audit reproductible.</p>
+<h2>3. Ressources et périmètre</h2>
+<p>Ouvrez <code>DICTIONNAIRE_DONNEES.md</code> avant de coder. <code>donnees/operations_sales.csv</code> contient <strong>1 100 lignes physiques</strong> et 8 colonnes. <code>donnees/referentiel_sites.csv</code> contient les 8 sites autorisés. Le registre concerne l&#x27;année 2025. Les identifiants sont fictifs. Aucune donnée personnelle réelle n&#x27;est utilisée.</p>
+<p>Source à traiter en priorité : <strong>JSON</strong>. Utilisez le fichier source_prioritaire correspondant dans donnees/. Le CSV contient les mêmes enregistrements et sert de secours ou de contrôle, pas de lot supplémentaire à concaténer.</p>
+<p>Les données sont volontairement très sales. Les anomalies concernent notamment les absences, les formats, les clés, les domaines et les doublons. Certaines valeurs surprenantes peuvent être valides. Le dictionnaire décrit les conventions attendues, sans donner la position des erreurs.</p>
+<h2>4. Déroulement et questions obligatoires</h2>
+<h3>Phase A — Comprendre et acquérir</h3>
+<p>1. Reformulez le besoin de la direction en cinq lignes. Distinguez une décision, un indicateur et une donnée nécessaire à son calcul.</p>
+<p>2. Décrivez l&#x27;unité d&#x27;observation, la clé attendue et la relation entre opérations et sites. Pourquoi une date et un site ne constituent-ils pas une clé unique ?</p>
+<p>3. Chargez la source prioritaire. Affichez son chemin relatif, le nombre de lignes, les colonnes et cinq observations. Pour JSON, extrayez la liste <code>operations</code>. Pour HTML, utilisez BeautifulSoup et la table <code>operations</code>. Pour SQLite, ouvrez la table <code>operations</code> avec sqlite3. Aucun accès Internet n&#x27;est nécessaire.</p>
+<p>4. Rédigez une fonction Python qui contrôle la présence des colonnes attendues. Que doit-elle signaler si une colonne manque ?</p>
+<h3>Phase B — Auditer avant de corriger</h3>
+<p>5. Pour chaque colonne, indiquez le type lu, le type attendu, le nombre de valeurs absentes après reconnaissance des marqueurs et le nombre de valeurs distinctes.</p>
+<p>6. Détectez séparément les lignes strictement identiques et les identifiants répétés avec contenus différents. Combien de lignes et de clés sont concernées ?</p>
+<p>7. Recensez les formats de date, les dates impossibles, les chaînes placées dans des mesures et les catégories non documentées. Donnez deux exemples par famille présente.</p>
+<p>8. Contrôlez les bornes et les règles métier du dictionnaire. Distinguez erreur certaine, valeur plausible atypique et cas indécidable.</p>
+<p>9. Contrôlez les clés de sites avec une jointure gauche. Combien de références restent inconnues avant et après normalisation ? Vérifiez que la jointure n&#x27;augmente pas le nombre de lignes.</p>
+<p>10. Produisez un tableau de qualité initial. Le taux d&#x27;anomalies par règle doit préciser son dénominateur. Les taux peuvent se chevaucher : ne les additionnez pas comme des groupes disjoints.</p>
+<h3>Phase C — Nettoyer en conservant les preuves</h3>
+<p>11. Conservez la source intacte et ajoutez un numéro de ligne source. Écrivez un journal comportant ligne, colonne, valeur initiale, action, justification et valeur obtenue.</p>
+<p>12. Normalisez espaces, casse, catégories et marqueurs d&#x27;absence avec des fonctions réutilisables. Comment empêchez-vous qu&#x27;une catégorie inconnue soit transformée arbitrairement en catégorie fréquente ?</p>
+<p>13. Convertissez les deux mesures en respectant les unités. Signalez les échecs de conversion. Convertissez les dates selon leurs formats explicites et excluez les dates impossibles de l&#x27;analyse temporelle en les comptabilisant.</p>
+<p>14. Proposez un traitement par colonne des absences. Comparez suppression ciblée, conservation et imputation. Justifiez les colonnes que vous refusez d&#x27;imputer.</p>
+<p>15. Supprimez les copies exactes en conservant leur trace. Pour une clé avec valeurs contradictoires, mettez les lignes en quarantaine faute de source faisant autorité. Ne choisissez pas automatiquement la première ou la dernière ligne.</p>
+<p>16. Appliquez les règles métier. Une valeur extrême ne se supprime pas uniquement parce qu&#x27;elle apparaît hors des moustaches d&#x27;un boxplot. Expliquez votre décision pour cinq cas.</p>
+<p>17. Produisez <code>operations_nettoyees.csv</code>, <code>quarantaine.csv</code> et <code>journal_nettoyage.csv</code>. Documentez une règle d&#x27;appartenance exclusive entre données retenues, doublons retirés et quarantaine. Vérifiez la conservation du nombre initial de lignes.</p>
+<p>18. Relancez le contrôle qualité et comparez les taux avant et après. Quels problèmes restent indécidables ?</p>
+<h3>Phase D — Répondre au besoin métier</h3>
+<p>19. Après nettoyage, quelle est la réponse chiffrée à la question suivante : Pour quels vêtements les commandes dépassent-elles le plus souvent le délai promis ? Présentez le calcul, son périmètre et son dénominateur.</p>
+<p>20. Quels sites combinent fort volume et retard médian élevé ? Présentez un tableau comparatif et expliquez les limites de la comparaison.</p>
+<p>21. Comment les médianes de delai_promis_jours et de delai_reel_jours évoluent-elles par mois et par catégorie ? Ajoutez les sommes uniquement pour les mesures additives, en justifiant ce choix. Identifiez deux mois contrastés sans inventer leur cause.</p>
+<p>22. Quels sont les trois sites les plus atypiques pour delai_promis_jours et delai_reel_jours ? Comparez moyenne, médiane et intervalle interquartile avant de proposer une explication prudente.</p>
+<p>23. Que devient votre indicateur principal si vous excluez toutes les valeurs manquantes, puis si vous appliquez une imputation justifiée sur les seules mesures autorisées ? Quantifiez la différence. Ne remplacez pas un identifiant, une date ou un statut par une valeur inventée.</p>
+<p>24. Quelle décision opérationnelle proposeriez-vous à partir de ces résultats de simulation ? Formulez trois recommandations hiérarchisées, chacune appuyée par un chiffre et accompagnée d’une limite.</p>
+<h3>Phase E — Visualiser et communiquer</h3>
+<p>25. Construisez au moins cinq graphiques : comparaison par catégorie, évolution mensuelle, histogramme, boxplot par site et nuage de points reliant <code>delai_promis_jours</code> à <code>delai_reel_jours</code>. Pour chacun, indiquez titre, unité, effectif utilisé et une interprétation de trois phrases. N&#x27;interprétez pas une association comme une causalité.</p>
+<p>26. Réalisez une application Dash avec filtres de dates, site et catégorie. Affichez nombre d&#x27;opérations, indicateur principal et au moins deux graphiques qui réagissent aux filtres. Prévoyez un message pour un filtre sans données et évitez les divisions par zéro.</p>
+<p>27. Stockez les données nettoyées dans une nouvelle base <code>resultats/analyse.sqlite</code>. Écrivez trois requêtes SQL : résumé par catégorie, évolution mensuelle et classement des sites. Comparez les résultats à ceux de Pandas avec une tolérance explicite sur les décimaux.</p>
+<p>28. Rédigez une note de deux pages : problème, qualité des données, résultats, recommandations et limites. Expliquez quelles conclusions resteraient impossibles sans données réelles supplémentaires.</p>
+<h2>5. Définitions et règles de calcul</h2>
+<p>Les mesures delai_promis_jours et delai_reel_jours doivent être numériques et non négatives. Un délai réel supérieur au délai prévu est un résultat métier possible, pas une erreur.</p>
+<p>Indicateur principal à expliquer : <strong>delai_reel_jours − delai_promis_jours</strong>. Les sommes et ratios portent sur les opérations dont le statut normalisé est <code>Valide</code>, dont les mesures requises sont utilisables et dont la clé a été résolue. Les autres observations restent dans la piste d&#x27;audit. Les agrégations temporelles exigent aussi une date exploitable. Annoncez l&#x27;effectif utilisé pour chaque résultat.</p>
+<p>Pour un ratio agrégé, utilisez le rapport des sommes si la question demande un taux pondéré. Comparez-le à la moyenne des ratios individuels sans les confondre. Un dénominateur nul donne un résultat indéfini, jamais zéro par défaut. Les nombres non entiers sont autorisés pour les masses, durées et volumes. Les champs de comptage (<code>quantite</code>, <code>plants</code>, <code>visiteurs</code>, <code>participants</code>, <code>places</code>, <code>kits</code>, <code>dossiers</code>, <code>billets</code>, <code>entrees</code>, <code>bouteilles</code>, <code>articles</code>) doivent être entiers : une fraction non nulle y est une anomalie à résoudre ou mettre en quarantaine.</p>
+<h2>6. Livrables attendus</h2>
+<p>- notebook <code>analyse.ipynb</code> commenté, avec réponses numérotées aux 28 questions ;</p>
+<p>- dossier <code>resultats/</code> : données nettoyées, quarantaine, journal, tableau qualité avant/après, trois exports d&#x27;analyse et base SQLite ;</p>
+<p>- cinq graphiques exportés et application <code>app.py</code> avec consignes d&#x27;exécution ;</p>
+<p>- note de synthèse, liste des dépendances et journal des décisions.</p>
+<h2>7. Organisation et évaluation</h2>
+<p>Travail en binôme, charge indicative de 18 à 24 heures : cadrage et acquisition 2 h, audit 3 h, nettoyage 5 h, analyse 4 h, visualisation et Dash 5 h, restitution et contrôles 3 h. Ajustez selon votre maîtrise.</p>
+<p>Barème sur 100 : compréhension et acquisition 10 ; audit chiffré 20 ; nettoyage traçable et justifié 25 ; analyses métier 20 ; graphiques et Dash 15 ; reproductibilité et note 10. Une suppression massive non justifiée ou un classement sans dénominateur dégrade la qualité de l&#x27;analyse même si le code s&#x27;exécute.</p>
+<h2>8. Vérifications finales</h2>
+<p>Le notebook doit s&#x27;exécuter de haut en bas après redémarrage du noyau. Les sources brutes doivent rester inchangées. Les clés du résultat doivent être uniques. Les sites retenus doivent appartenir au référentiel. Les lignes en quarantaine doivent avoir une raison. Les figures et indicateurs doivent partager le même périmètre. Aucune conclusion ne doit présenter les données synthétiques comme une observation réelle.</p></html>
