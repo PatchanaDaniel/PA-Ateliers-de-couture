@@ -1,8 +1,8 @@
-regle,anomalies_avant,taux_avant_pct,anomalies_apres,taux_apres_pct,action_statut
-Doublons stricts de lignes,60,5.45,0,0.0,Supprimés et tracés dans le journal
-Conflits sur id_operation,80,7.27,0,0.0,Isolés en quarantaine (indécidables)
-Dates impossibles (31/02/2025),55,5.0,48,5.0,Exclues de l analyse temporelle (NaT)
-Codes sites invalides / inconnus,55,5.0,18,1.88,Casse/espaces normalisés ; inconnus conservés non appariés
-Catégories non conformes ou absentes,130,11.82,62,6.46,Casse corrigée ; non documentés conservés sans imputation
-Délai promis négatif ou absent,70,6.36,62,6.46,"Unités retirées, négatifs et absents invalidés"
-"Délai réel sentinelle, erreur ou absent",110,10.0,64,6.67,999999 et erreurs écartés des indicateurs
+regle                                    , anomalies_avant, taux_avant_pct, anomalies_apres, taux_apres_pct, action_statut
+Doublons stricts de lignes               ,              60,           5.45,               0,           0.0 , Supprimés et tracés dans le journal
+Conflits sur id_operation                ,              80,           7.27,               0,           0.0 , Isolés en quarantaine (indécidables)
+Dates impossibles (31/02/2025)           ,              55,           5.0 ,              48,           5.0 , Exclues de l analyse temporelle (NaT)
+Codes sites invalides / inconnus         ,              55,           5.0 ,              18,           1.88, Casse/espaces normalisés ; inconnus conservés non appariés
+Catégories non conformes ou absentes     ,             130,          11.82,              62,           6.46, Casse corrigée ; non documentés conservés sans imputation
+Délai promis négatif ou absent           ,              70,           6.36,              62,           6.46, "Unités retirées, négatifs et absents invalidés"
+"Délai réel sentinelle, erreur ou absent",             110,          10.0 ,              64,           6.67, 999999 et erreurs écartés des indicateurs
