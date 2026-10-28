@@ -32,13 +32,18 @@ df_ref = pd.read_csv(REF_SITES_PATH, sep=";")
 df_full = df_ops.merge(df_ref, on="id_site", how="left")
 
 # Filtrage du périmètre d'analyse métier valide
-# Statut = Valide, mesures exploitables et catégories documentées
+# Statut = Valide, site autorisé, mesures exploitables et catégories documentées
 df_valide = df_full[
     (df_full["statut"] == "Valide")
+    & (df_full["id_site"].isin(df_ref["id_site"]))
     & (df_full["categorie"].isin(["Boubou", "Chemise", "Robe", "Uniforme"]))
     & (df_full["delai_promis_jours"].notna())
     & (df_full["delai_reel_jours"].notna())
 ].copy()
+
+# Métriques centrales : écart de confection (réel - promis) et indicateur binaire de retard
+df_valide["ecart_retard_jours"] = df_valide["delai_reel_jours"] - df_valide["delai_promis_jours"]
+df_valide["en_retard"] = (df_valide["ecart_retard_jours"] > 0).astype(int)
 
 # Traitement des dates pour le filtrage
 df_valide["date_dt"] = pd.to_datetime(df_valide["date_operation"], errors="coerce")
@@ -265,11 +270,12 @@ def update_dashboard(start_date, end_date, selected_sites, selected_cats):
     else:
         filtered = filtered.iloc[0:0]
 
-    if start_date and end_date:
+    if start_date:
         s_date = pd.to_datetime(start_date)
+        filtered = filtered[filtered["date_dt"].isna() | (filtered["date_dt"] >= s_date)]
+    if end_date:
         e_date = pd.to_datetime(end_date)
-        # Conserver les lignes dans la plage ou NaT si analyse globale souhaitée
-        filtered = filtered[filtered["date_dt"].between(s_date, e_date, inclusive="both") | filtered["date_dt"].isna()]
+        filtered = filtered[filtered["date_dt"].isna() | (filtered["date_dt"] <= e_date)]
 
     total_ops = len(filtered)
 

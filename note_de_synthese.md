@@ -1,6 +1,6 @@
-# Note de Synthèse Décisionnelle — Ateliers de Couture
+# Note de Synthèse Décisionnelle — Ateliers de Couture (Scénario fictif)
 **Destinataire :** Direction Générale et Direction des Opérations  
-**Auteur :** Analyste Data (Étudiant en Master Data Science, Confection & Modélisme)  
+**Auteur :** Tchamie Daniel PACTHANA
 **Date :** 23 Octobre 2026  
 **Objet :** Audit de qualité du registre 2025, pilotage des délais de confection et analyse des retards  
 
